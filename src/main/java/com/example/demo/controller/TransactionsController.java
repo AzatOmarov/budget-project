@@ -18,7 +18,7 @@ public class TransactionsController {
 
     @GetMapping("/transactions")
     public List<Transaction> transactions(){
-        return transactionsService.getTransactionsList();
+        return transactionsService.getTransactions();
     }
 
     @PostMapping("/transactions")
