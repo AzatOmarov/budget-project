@@ -1,0 +1,4 @@
+INSERT INTO category (CATEGORY_TYPE, NAME) VALUES (1, 'Salary');
+INSERT INTO category (CATEGORY_TYPE, NAME) VALUES (1, 'Bonus');
+INSERT INTO category (CATEGORY_TYPE, NAME) VALUES (2, 'Food');
+INSERT INTO category (CATEGORY_TYPE, NAME) VALUES (2, 'Transport');
